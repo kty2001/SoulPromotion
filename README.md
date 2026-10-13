@@ -21,15 +21,17 @@
 
 ## 기술 스택
 
-미정. 아래 후보 중 검토 후 결정 예정.
+| 항목 | 내용 |
+| --- | --- |
+| 엔진 | Unity |
+| 차원 | 2D 사이드뷰 |
+| 플랫폼 | PC (Steam) |
 
-- Unity
-- HTML + JavaScript
-
-검토 내용은 [docs/design/tech_stack.md](docs/design/tech_stack.md)에 기록.
+결정 근거는 [docs/design/tech_stack.md](docs/design/tech_stack.md)에 기록.
 
 ## 문서
 
 - [docs/STATUS.md](docs/STATUS.md) — 진행 현황
 - [docs/TODO.md](docs/TODO.md) — 할 일 목록
+- [docs/design/game_design.md](docs/design/game_design.md) — 게임 디자인 문서
 - [docs/design/](docs/design/) — 설계 문서
