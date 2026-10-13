@@ -9,8 +9,8 @@
 - [x] 엔진 결정: Unity
 - [x] 2D / 3D 결정: 2D 사이드뷰
 - [x] 배포 대상 결정: PC (Steam)
-- [ ] Unity 버전 및 렌더 파이프라인 결정
-- [ ] 프로젝트 생성 및 버전 관리 설정 (Unity용 .gitignore)
+- [x] Unity 버전 및 렌더 파이프라인 결정: 6.3 LTS / URP 2D Renderer
+- [ ] 프로젝트 생성 및 버전 관리 설정 (Unity용 .gitignore, Git LFS) — 절차: tech_stack.md "프로젝트 설정 절차"
 
 ## 게임 디자인 (docs/design/game_design.md)
 - [x] 유사작(Pawned Souls, Stonemachia) 대비 차별점 정리
