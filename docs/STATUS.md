@@ -18,6 +18,7 @@
 | 성장 | 보스 스킬 흡수, 슬롯 2개, 머티리얼로 레벨업 | [GDD 5장](design/game_design.md#5-성장-시스템) |
 | 소울라이크 | 머티리얼 드롭형 사망 패널티, 체크포인트 = 체스 시계 | [GDD 6장](design/game_design.md#6-소울라이크-규칙) |
 | 스테이지 | 랭크 = 스테이지, 선형 진행 | [GDD 7장](design/game_design.md#7-월드스테이지) |
+| 일반 적 | 누적형 구성, 체스 규칙은 공격에만 반영 | [GDD 7장](design/game_design.md#7-월드스테이지) |
 | 엔딩 | 퀸 단일 엔딩, 다중 분기 확장 가능 구조 | [GDD 8장](design/game_design.md#8-스토리세계관-초안-확정) |
 
 ## 미결 사항
