@@ -92,7 +92,7 @@
 
 | 격언 | 내용 | 활용 아이디어 |
 | --- | --- | --- |
-| "Pawns are the soul of chess" | Philidor, 1749 『L'Analyze des Echecs』 원문 "ils sont l'âme des Echecs". 현재 영어 문구의 최초 출현은 미확인 | 제목 SoulPromotion·"소울" 재화 명칭의 근거 |
+| "Pawns are the soul of chess" | Philidor, 1749 『L'Analyze des Echecs』 원문 "ils sont l'âme des Echecs". 현재 영어 문구의 최초 출현은 미확인 | 제목 SoulPromotion 명칭의 근거 |
 | "A knight on the rim is dim" | 가장자리 나이트는 약함. 1964년 이전부터 문헌 등장, 작자 미상 | King of Knight 약점: 아레나 가장자리 착지 시 경직 |
 | "Passed pawns must be pushed" | 통과한 폰은 밀어붙여야 함 | 2칸 대시 스킬 설명문 |
 | "All rook endings are drawn" | 룩 엔딩은 모두 무승부. Tarrasch·Tartakower 귀속설 모두 미확인 | King of Rook 장기전 패턴 |
