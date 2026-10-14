@@ -13,7 +13,7 @@
 | 엔진 | Unity 6.3 LTS / URP 2D Renderer | [tech_stack.md](design/tech_stack.md) |
 | 차원·플랫폼 | 2D 사이드뷰 / PC (Steam) | [tech_stack.md](design/tech_stack.md) |
 | 아트 | 흑백 모노크롬 + 포인트 컬러 (픽셀 아트 전환 가능성 보류) | [GDD 1장](design/game_design.md#1-개요) |
-| 전투 | 실시간 액션, 스태미나 기반 | [GDD 3장](design/game_design.md#3-전투) |
+| 전투 | 실시간 액션, 3타 콤보·구르기·가드/퍼펙트 가드, 스태미나 기반 | [GDD 3장](design/game_design.md#3-전투) |
 | 보스 | King of Pawn → Knight → Bishop → Rook → Queen → King of King | [GDD 4장](design/game_design.md#4-보스흡수-스킬) |
 | 성장 | 보스 스킬 흡수, 슬롯 2개, 머티리얼로 레벨업 | [GDD 5장](design/game_design.md#5-성장-시스템) |
 | 소울라이크 | 머티리얼 드롭형 사망 패널티, 체크포인트 = 체스 시계 | [GDD 6장](design/game_design.md#6-소울라이크-규칙) |
@@ -22,10 +22,10 @@
 
 ## 미결 사항
 
-- 보스 패턴·스킬 밸런스 수치
-- 기본 조작 세부 사양 (GDD 3장 [제안] 상태)
+- 보스 패턴·스킬 밸런스 수치 (King of Pawn·전방 대시는 초안 작성, [GDD 9장](design/game_design.md#9-프로토타입-범위))
+- 레벨업 비용·스탯 성장 곡선
 
 ## 다음 단계
 
 1. Unity 프로젝트 생성 및 버전 관리 설정 — 개발 PC에서 진행 ([절차](design/tech_stack.md#프로젝트-설정-절차))
-2. 프로토타입: 기본 조작 → King of Pawn 전투 → 2칸 대시 흡수 ([GDD 9장](design/game_design.md#9-프로토타입-범위))
+2. 프로토타입: 기본 조작 → King of Pawn 전투 → 전방 대시 흡수 ([GDD 9장](design/game_design.md#9-프로토타입-범위))
